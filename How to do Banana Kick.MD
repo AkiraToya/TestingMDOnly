@@ -1,9 +1,9 @@
 
-# Article Title: Master the Deadly Banana Kick: A Comprehensive Guide to Curve Ball Wizardry in Soccer
+# Master the Deadly Banana Kick: A Comprehensive Guide to Curve Ball Wizardry in Soccer
 
 In the world of soccer, there are numerous techniques that can help a player stand out on the field and make a difference in the game. One such technique is the banana kick, also known as a curved shot or knuckleball. This intriguing move allows players to surprise their opponents by making the ball swerve unexpectedly mid-air. In this subtopic, we will provide an overview of what the banana kick is and how it can be utilized in soccer.
 
-## Introduction to Banana Kick in Soccer
+## Introduction
 
 A banana kick is a type of soccer kick that imparts spin on the ball, causing it to curve or change direction suddenly while airborne. This unique technique takes advantage of the Magnus effect, a phenomenon observed in fluid dynamics where an object with spinning motion experiences a sideways force due to differences in air pressure on its surface.
 
