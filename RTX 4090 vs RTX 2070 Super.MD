@@ -4,9 +4,6 @@ Dive into the heart of the gaming world as we compare two powerful graphics card
 
 ## RTX 4090 Specification
 
-RTX 4090 Specification
-------------------------
-
 The NVIDIA GeForce RTX 4090 is a beast of a graphics card, and it's here to blow you away with its performance! Let's dive into the details of this impressive hardware.
 
 ### Architecture
@@ -39,38 +36,29 @@ Last but not least, the RTX 4090 comes with a low-latency platform called NVIDIA
 
 ## RTX 2070 Super Specification
 
-RTX 2070 Super Specification
-==============================
-
 When we're comparing the RTX 4090 with its predecessor, it's essential to know what kind of power the older GPU packs. The NVIDIA GeForce RTX 2070 Super is a solid option for those looking for high-end performance at a relatively lower price point compared to newer models like the RTX 4090. Let's dive into its specifications!
 
 [Source 2, Source 3, Source 5]
 
-CUDA Cores and Clock Speeds
----------------------------
+### CUDA Cores and Clock Speeds
 
 The RTX 2070 Super has 2560 CUDA cores, which is still a lot considering the vast majority of games don't require more than 1800 CUDA cores for optimal performance. Its base clock speed stands at 1405 MHz and can boost up to 1770 MHz. Remember that these speeds may vary depending on cooling and power limits.
 
-Memory
-------
+### Memory
 
 The RTX 2070 Super comes with 8GB GDDR6 VRAM, similar to the RTX 4090. However, it has a narrower memory bus at 256-bit, resulting in a slightly lower memory bandwidth of around 448 GB/s compared to the RTX 4090's 760.8 GB/s.
 
-Power Consumption and Price
---------------------------
+### Power Consumption and Price
 
 The RTX 2070 Super has a lower power consumption requirement, with a TDP (Thermal Design Power) of just 215 watts. This translates to less demand on your power supply and potentially cooler running temperatures. On the other hand, the price is another story: when it was first launched, you could get your hands on an RTX 2070 Super for $499, but now it's available at around $309, which is a steal compared to the RTX 4090's current market price of $1,756.
 
-Performance and Release Date
-----------------------------
+### Performance and Release Date
 
 The RTX 2070 Super delivers strong gaming performance that can handle most modern games on high settings. However, its synthetic benchmark score sits at a respectable 47.04 (with 100 representing a 100% increase over the original RTX 2070). Released back in August 2018, it might not be as cutting-edge as the latest releases but remains a solid performer for its age.
 
 In summary, the NVIDIA GeForce RTX 2070 Super offers a balance between power and affordability. While it may not have all the bells and whistles of the newer RTX 4090, it still packs quite a punch in terms of performance
 
 ## Which One Better For Price Value in Gaming
-
-### Which One Better For Price Value in Gaming
 
 When it comes to getting the most bang for your buck while enjoying your favorite games, comparing the price value is an essential factor. Let's dive into how these two graphic cards fare against each other when considering gaming performance and cost efficiency.
 
@@ -80,10 +68,9 @@ In terms of specifications, the RTX 4090 has significant advantages over its pre
 
 When comparing the price value rating of both graphic cards, the RTX 2070 Super has a **194% higher value rating** compared to the RTX 4090. This means that for every dollar spent on an RTX 2070 Super, you'll likely receive more in terms of gaming performance and overall value than if you were to invest in the pricier RTX 4090.
 
+## Conclusion
 In conclusion, while the RTX 4090 offers impressive power and top-notch performance, it comes at a steep price. The RTX 2070 Super, on the other hand, offers significantly better value for money when it comes to gaming, consuming less energy in the process. Therefore, if you're looking for a more cost-effective option without compromising too much on gaming performance, the RTX 2070 Super may just be the right choice for your gaming rig.
 
 In the intense battle between NVIDIA's graphics titans, the RTX 4090 and RTX 2070 Super, both cards boast impressive specifications. The latest powerhouse, the RTX 4090, comes equipped with an astounding 16 GB GDDR6X VRAM and Ada Lovelace architecture, showcasing top-notch performance in cutting-edge games. In contrast, the RTX 2070 Super offers a still-impressive 8 GB GDDR6 VRAM and Turing architecture, making it an excellent performer within its range.
 
 When evaluating price vs value for gaming enthusiasts, the decision depends on individual needs and budgets. The RTX 4090's performance is unmatched but comes with a premium price tag, providing superior quality at higher resolutions and demanding settings. However, for those who prioritize cost-efficiency, the RTX 2070 Super remains an attractive option, delivering outstanding value with its competent performance without breaking the bank.
-
-In summary, NVIDIA's RTX 4090 shines as a top-tier powerhouse in terms of specs and raw performance but comes at a steep price. In contrast, the RTX 2070 Super is an excellent option for those seeking great value without sacrificing too much power. Ultimately, each graphics card has its strengths tailored to different gamer's preferences and wallets.
